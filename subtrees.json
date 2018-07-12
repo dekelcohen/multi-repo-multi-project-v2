@@ -1,7 +1,7 @@
 {
   "app": {
     "localFolder": "packages/app",
-    "repository": "https://github.com/photusenigma/multi-repo-multi-project-v2-app.git",
+    "repository": "https://github.com/dekelcohen/multi-repo-multi-project-v2-app.git",
     "branch": "master"
   }, 
   "common-components": {
